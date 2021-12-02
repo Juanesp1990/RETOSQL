@@ -1,0 +1,10 @@
+﻿numeroRegistro;codigoProveedor;nombreComercial;nombreClinico;ubicacion;compuestoQuimico;cantidadDosis;precioTotal;precioUnidad
+abc123;zzz123;acetaminofen;Paracetamol;45AC32;A-Z1;500;100000;200
+adc437;aaa145; ALBENDAZOL MK;Albendazol;45613b2;A-P1;10;200000;20000
+abc124;zzz124;ALSUCRAL;Sucralfato;45AC33;A-C2;20;300000;15000
+adc438;aaa146;AMOXICILINA SANDOZ; Amoxicilina;45613b3;A-Z2;100;400000;4000
+abc125;zzz125;GARAMICINA;Gentamicina ;45AC34;A-P2;50;500000;10000
+adc439;aaa147;OLMETAN;Olmesartán;45613b4;A-C3;30;600000;20000
+abc126;zzz126;OXIDONA;Oxicodona;45AC35;A-Z3;20;700000;35000
+adc440;aaa148;OXYCONTIN;Oxicodona;45613b5;A-P3;10;800000;80000
+abc127;zzz127;QUERAGEL;Imiquimod;45AC36;A-C4;30;900000;30000
